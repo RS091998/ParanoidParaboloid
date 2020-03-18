@@ -1,0 +1,35 @@
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\Diffuse.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SpecularShader Test.exe
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SpecularShader Test.pdb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\obj\x86\Debug\SpecularShader Test.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\obj\x86\Debug\SpecularShader Test.csproj.CopyComplete
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\obj\x86\Debug\SpecularShader Test.exe
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\obj\x86\Debug\SpecularShader Test.pdb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\platesNr.2.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\try.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\fuckthissphere.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\tiltedcube.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\Parashader.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\simplecube.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\simplecubetrans.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\simplecubetrans1.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\simplecubetrans2.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\This.xnb
+C:\Users\paula\source\repos\SpecularShader Test\SpecularShader Test\bin\Windows\x86\Debug\Content\ObjTest_Paper.xnb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/File.fx</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/fuckthissphere.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/ObjTest_Paper.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/Parashader.fx</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/platesNr.2.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/simplecube.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/simplecubetrans.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/simplecubetrans1.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/simplecubetrans2.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/This.spritefont</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/tiltedcube.obj</File>
+    <File>C:/Users/paula/source/repos/SpecularShader Test/SpecularShader Test/Content/try.obj</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
